@@ -1,0 +1,37 @@
+[
+  {
+    "id": "S001",
+    "firstName": "Aiden",
+    "lastName": "Thompson",
+    "dateOfBirth": "2010-03-15",
+    "grade": "Grade 9"
+  },
+  {
+    "id": "S002",
+    "firstName": "Sofia",
+    "lastName": "Martinez",
+    "dateOfBirth": "2009-07-22",
+    "grade": "Grade 10"
+  },
+  {
+    "id": "S003",
+    "firstName": "James",
+    "lastName": "Chen",
+    "dateOfBirth": "2011-11-08",
+    "grade": "Grade 8"
+  },
+  {
+    "id": "S004",
+    "firstName": "Olivia",
+    "lastName": "Patel",
+    "dateOfBirth": "2008-05-30",
+    "grade": "Grade 11"
+  },
+  {
+    "id": "S005",
+    "firstName": "Noah",
+    "lastName": "Williams",
+    "dateOfBirth": "2012-01-14",
+    "grade": "Grade 7"
+  }
+]
