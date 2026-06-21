@@ -1,6 +1,6 @@
 # New Generation High School — Student Portal
 
-CPRG 306 · Web Development 2 · SAIT 202
+CPRG 306 · Web Development 2 · SAIT 2026
 
 ## Setup
 
